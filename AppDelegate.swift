@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
-//  Password_Safe
 //
 //  Created by MyMac on 2019. 10. 28..
-
 //
 
 import UIKit
